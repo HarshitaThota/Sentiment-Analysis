@@ -12,8 +12,8 @@ User-friendly Interface: The project provides a straightforward interface for us
 ## Getting Started
 Installation: Ensure you have Python installed on your system. Clone the project repository from GitHub:
 ```bash
-   git clone https://github.com/HarshitaThota/sentiment-analysis-project.git 
-   ```
+git clone https://github.com/HarshitaThota/sentiment-analysis-project.git 
+```
 Dependencies: Install the required Python libraries:
 
 ```bash
