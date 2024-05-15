@@ -38,4 +38,3 @@ The Sentiment Analysis Project is maintained and contributed to by Harshita Thot
 ## Support and Feedback
 For any questions, issues, or feedback related to the Sentiment Analysis Project, please open an issue on GitHub or contact the me directly.
 
-Feel free to customize this README file with specific details about your project, such as installation instructions, dataset information, and contributor profiles.
