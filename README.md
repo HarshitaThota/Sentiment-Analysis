@@ -29,6 +29,7 @@ df = pd.read_csv('your_dataset.csv')
 texts = df['text_column'].tolist()
 labels = df['label_column'].tolist()
 ```
+To run: 
 ```bash
 python sentiment_analysis.py
 ```
